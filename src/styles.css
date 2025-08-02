@@ -1,0 +1,5 @@
+#main {
+  border: 5px black dotted;
+  display: flex;
+  justify-content: center;
+}
